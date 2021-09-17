@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(85, 81, 81, 0.651);
+}
+h1{
+    color: white;
+    font-size: 50px;
+    margin: auto;
+}
+h2{
+    color: white;
+}
+div{ display: flex;
+    flex-direction: column;
+}
+.Conclusion{
+    color: white;
+    width: 70%;
+    margin: auto;
+    font-size: 20px;
+}
+img{
+    width: 50%;
+   margin: auto;
+   margin-top: 30px;
+}

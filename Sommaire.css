@@ -1,0 +1,16 @@
+#titre{
+    color: white;
+    font-size: 50px;
+}
+div{ display: flex;
+    flex-direction: column;
+}
+body{
+    background-color: rgba(85, 81, 81, 0.651);
+}
+.sommaire{
+    margin: auto;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
